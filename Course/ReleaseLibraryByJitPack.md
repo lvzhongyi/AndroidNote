@@ -91,6 +91,7 @@ buildscript {
     // 重点就是下面这一行(上面两行是为了定位这一行的添加位置)
     classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3' 
 ```
+**注意:添加上面的如果出现bug，请将1.3修改为1.4.1**
 **[完整示例](https://github.com/GcsSloop/SUtil/blob/master/build.gradle)**
 
 **在你要发布的library的 build.gradle(图示2) 中添加如下代码：**
