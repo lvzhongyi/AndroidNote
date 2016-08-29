@@ -108,6 +108,8 @@ buildscript {
 
 **为了提交更加快速，你可以删除无用的文件(文件夹),至于需要保留哪些文件你可以参考官方给出的[示例仓库](https://github.com/jitpack/android-example)**
 
+**注意:上传的时候，要上传gradlew、gradlew.bat文件和/gradle目录，gitignore配置里注意一下**
+
 ## 第 5 步: Release你的仓库或者给你的仓库打一个Tag(重点)
 
 ### 1.点击图示进入Release界面
